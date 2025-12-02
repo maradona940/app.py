@@ -1,0 +1,11 @@
+streamlit
+pandas
+geopandas
+scikit-learn
+folium
+shapely
+plotly
+hdbscan
+prophet
+matplotlib
+seaborn
